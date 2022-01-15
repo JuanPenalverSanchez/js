@@ -1,1 +1,1 @@
-alert('Hola mundo crack');
+console.log('hola mundo');
